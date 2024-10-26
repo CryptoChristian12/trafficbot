@@ -18,9 +18,9 @@ $$$$$$$$\ $$$$$$$\   $$$$$$\  $$$$$$$$\ $$$$$$$$\ $$$$$$\  $$$$$$\        $$$$$$
 
 print(logo)
 
-url = int(input("What's your url? ")
+url = int(input("What is your url? ")
 
-wait_time = int(input(" What's the wait time? ")
+wait_time = int(input(" What is the wait time? ")
 
 
 x = 1
