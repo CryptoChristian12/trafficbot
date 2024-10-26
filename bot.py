@@ -1,8 +1,5 @@
-!/usr/bin/env python
-
 import webbrowser
 import time
-
 
 logo = f""" 
 
@@ -29,9 +26,7 @@ wait_time = int(input(" What's the wait time? ")
 x = 1
 while True:
   webbrowser.open(url)
-  time.sleep(15)
-	webbrowser.open_new_tab(url)
-	time.sleep(wait_time)
+  time.sleep(wait_time)
 	webbrowser.open_new_tab(url)
 	time.sleep(wait_time)	
 	webbrowser.open_new_tab(url)
