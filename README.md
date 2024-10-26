@@ -1,4 +1,4 @@
-# trafficbot
+# Trafficbot
 This is a simple python script authored by me to demonstrate how easy it is to generate traffic for your website to improve your google ranking and do other black SEO . 
 
 Using Tor Addon in your default browser is essential to make the clicks on links count. This way the IP address keeps changing with every new request , fooling the web server that these requests are from diffrent IP's . 
@@ -10,14 +10,18 @@ HELP and SUPPORT
 
 Add up as many URLs as you need for a single loop. Just keep adding the new line :
 
-webbrowser.open_new_tab('http://url/') time.sleep(10)
+webbrowser.open_new_tab(url) time.sleep(wait_time)
 
 http://url/ -> Can be replaced with your Link where you want the Traffic to be generated .
 
-time.sleep(10) -> Makes sure your browser does'nt Crash . 
+time.sleep(wait_time) -> Makes sure your browser does'nt Crash . 
 
 
 
 Make sure you run a Proxy on your browser otherwise maybe the Analystics dont consider clicks in Counts . 
 
-  Fell free to Contact : sec.maniac@yahoo.com
+I just quickly updated the project a bit since I trought it had much more potential, I'll update it further later.
+
+# Usage
+
+Run 'pip install 
