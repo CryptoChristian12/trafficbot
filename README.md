@@ -12,11 +12,9 @@ Add up as many URLs as you need for a single loop. Just keep adding the new line
 
 webbrowser.open_new_tab(url) time.sleep(wait_time)
 
-http://url/ -> Can be replaced with your Link where you want the Traffic to be generated .
+time.sleep(wait_time) -> Makes sure your browser doesn't Crash . 
 
-time.sleep(wait_time) -> Makes sure your browser does'nt Crash . 
-
-
+THE SCRIPT WILL OPEN THE SITE ON YOUR WEBBROWSER, DON'T GO TOO CRAZY.
 
 Make sure you run a Proxy on your browser otherwise maybe the Analystics dont consider clicks in Counts . 
 
