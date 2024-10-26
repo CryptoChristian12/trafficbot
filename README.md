@@ -20,8 +20,12 @@ time.sleep(wait_time) -> Makes sure your browser does'nt Crash .
 
 Make sure you run a Proxy on your browser otherwise maybe the Analystics dont consider clicks in Counts . 
 
-I just quickly updated the project a bit since I trought it had much more potential, I'll update it further later.
+I just quickly updated the project a bit since I trought it had much more potential, I'll update it further later, probaly with requests and more management.
 
 # Usage
 
-Run 'pip install 
+Download latest python at python.org
+
+Run 'pip install time and pip install webbrowser' (Windows + R, cmd)
+
+Download and run bot.py
