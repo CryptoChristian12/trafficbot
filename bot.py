@@ -20,7 +20,7 @@ print(logo)
 
 url = input("What is your url? ")
 
-wait_time = int(input(" What is the wait time? ")
+wait_time = int(input(" What is the wait time? "))
 
 
 x = 1
